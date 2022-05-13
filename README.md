@@ -1,2 +1,2 @@
 # ArabicMorrocoWikiExtract
-Code to extarct text data from wikipedia and create a file text witch sentence by line
+Code to extarct text data from Moroccan wikipedia
